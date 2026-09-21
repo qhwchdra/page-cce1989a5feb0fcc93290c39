@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qcogb.cn/sitemap.xml

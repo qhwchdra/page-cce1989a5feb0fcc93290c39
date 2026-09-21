@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b17fb6e9ce50c1bcc05d60b5",
+  "owner": "qhwchdra",
+  "repo": "page-cce1989a5feb0fcc93290c39",
+  "title": "CC云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cce1989a5feb0fcc93290c39",
+      "a": "CC云",
+      "b": "2027最新官网",
+      "entity": "CC云",
+      "brand": "CC云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "32a07c4651b5e93a4555f2ded196721eca7401c35e549e9dc070937648853d8e",
+      "content": {
+        "primary_entity": "CC云",
+        "keyword1": "CC云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、iOS、Android 与路由器均有匹配的订阅导入方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "挑选适合当前设备数量的套餐，配置好订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付与年付均可选择。基础版每月 100GB 流量、支持 3 台设备，适合轻量使用；旗舰版每月 300GB 流量、支持 5 台设备，并带 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由。可按设备数量、月流量需求与订阅周期做套餐对比，再配合各平台客户端导入订阅使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到计费周期，几个实际维度帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按需选择。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；多人共用建议优先考虑团队版。",
+          "AI_FEATURE_TEXT_3": "每月流量从 100GB 到 1000GB 不等，旗舰版还含 IPLC 专线游戏加速优化，适合高带宽场景。",
+          "AI_FEATURE_TITLE_1": "三档套餐价格",
+          "AI_FEATURE_TITLE_2": "设备数量限制",
+          "AI_FEATURE_TITLE_3": "流量与专线权益",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置的流程。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "CC云提供基础版、旗舰版与团队版三档套餐，月付年付灵活可选，覆盖从个人轻量使用到多设备团队协作的不同场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备灵活选用",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换，年付更省",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与权益，结合预算和使用场景做出选择。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量、流量额度与流媒体或专线权益是否符合预期。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，完成配置后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "CC云套餐选择与订阅配置",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。可按家庭或团队人数挑选，超出后需升级版本或减少同时连接数量。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。日常浏览与视频选择基础版通常够用，需要高清流媒体或多设备共享可考虑旗舰版与团队版。",
+          "AI_FAQ_ANSWER_3": "旗舰版带有IPLC专线游戏加速优化，全节点原生流媒体解锁。团队版提供VIP专属高带宽节点，适合对延迟和带宽要求更高的使用场景。",
+          "AI_FAQ_ANSWER_4": "年付价格更低，基础版按年付为150元每年，旗舰版350元每年，团队版850元每年。长期使用可选年付，短期体验可按月订阅。",
+          "AI_FAQ_ANSWER_5": "依照所使用设备的客户端文档导入订阅链接即可。电脑端、移动端与路由器端选项不同，选择与设备匹配的客户端完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与流量套餐。",
+          "AI_FAQ_QUESTION_1": "CC云各版本分别支持几台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版在节点上有何不同？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付该怎么选？",
+          "AI_FAQ_QUESTION_5": "买了套餐后怎么导入订阅？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qcogb.cn",
+    "host": "qcogb.cn"
+  },
+  "file_hashes": {
+    "index.html": "4e8d5a2ae766930a42e703448819cf5a61f55541e695d793628396dcc3749b82",
+    "sitemap.xml": "48dd0dbc9570ca92b08acfc71837fb71c1dde6df428b3e522aecc68554b7ca9b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "620fbcea4673ac80c26199e61022594d57f9569c3cfdb1cf3bb4655f6c8950ff",
+    "robots.txt": "2aa2d9d7315eee877d506a3df0d2d3092584ff4c6a2c3a970c7f3ba1e402cf21",
+    "8e93adf8100b58c58e4cd43a61913142.txt": "195c3462cb4268226e26215dd8e4e67cb297f4eebfae0f30280eb4dfaedd55c3"
+  },
+  "revision": "6bae3c10241b1906aff5e8111a2c759263bc374bf5d262c8b0eacaff2fd67b02"
+}
